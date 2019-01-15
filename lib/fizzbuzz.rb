@@ -1,5 +1,3 @@
-class FizzBuzz
-  def fizzbuzz(number)
-    "fizz"
-  end
+def fizzbuzz(number)
+  "fizz"
 end
